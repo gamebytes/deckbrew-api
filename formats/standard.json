@@ -2,7 +2,7 @@
   "name": "standard",
   "sets": [
     "ths", "bng", "ktk",
-    "frf", "jou"
+    "frf", "jou", "m15"
   ]
 }
 
